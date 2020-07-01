@@ -1324,7 +1324,7 @@
          "codFam": "111",
          "mes": 2,
          "nomeFam": "SPGV-SF",
-         "totFat": 7406841.111,
+         "totFat": 4406841.111,
          "totQtd": 4203958,
          "medio": 1.76
       },
@@ -1413,7 +1413,7 @@
          "mes": 1,
          "nomeFam": "SPPV-P BFS",
          "totFat": 876342.8,
-         "totQtd": 7353000,
+         "totQtd": 4353000,
          "medio": 0.12
       },
             {
@@ -1421,7 +1421,7 @@
          "mes": 2,
          "nomeFam": "SPPV-P BFS",
          "totFat": 1599427,
-         "totQtd": 1.05156E7,
+         "totQtd": 1250352,
          "medio": 0.15
       },
             {
