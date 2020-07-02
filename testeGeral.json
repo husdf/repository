@@ -2150,7 +2150,7 @@
          "nomeFam": "SPGV-SF",
          "totFat": 179581.32,
          "totQtd": 100134,
-         "medio": 1.65
+         "medio": 3.65
       },
             {
          "codFam": "111",
@@ -2333,7 +2333,7 @@
          "mes": 6,
          "nomeFam": "new Family Test",
          "totFat": 548059.8,
-         "totQtd": 1183800,
+         "totQtd": 2183800,
          "medio": 3
       },
             {
@@ -2342,7 +2342,7 @@
          "nomeFam": "new Family Test",
          "totFat": 58059.8,
          "totQtd": 3183800,
-         "medio": 1.5
+         "medio": 2.1
       },
             {
          "codFam": "169",
