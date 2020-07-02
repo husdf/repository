@@ -933,7 +933,7 @@
          "nome": "Teste 5",
          "regiao": "GO/TO",
          "totFat": 274448.16,
-         "meta": 148645,
+         "meta": 13148645,
          "percMetaBatida": 98,
          "percSobFat": 12,
          "escala": "Medio"
@@ -2142,7 +2142,7 @@
          "nomeFam": "SPGV-SF",
          "totFat": 279581.32,
          "totQtd": 300134,
-         "medio": 2.65
+         "medio": 3.65
       },
             {
          "codFam": "111",
@@ -2238,7 +2238,7 @@
          "nomeFam": "SPPV-P BFS",
          "totFat": 28059.8,
          "totQtd": 4183800,
-         "medio": 2.1
+         "medio": 1.4
       },
             {
          "codFam": "121",
@@ -2365,7 +2365,7 @@
          "mes": 10,
          "nomeFam": "new Family Test",
          "totFat": 28059.8,
-         "totQtd": 1183800,
+         "totQtd": 3183800,
          "medio": 3.1
       },
             {
@@ -2374,7 +2374,7 @@
          "nomeFam": "new Family Test",
          "totFat": 28059.8,
          "totQtd": 2183800,
-         "medio": 1.5
+         "medio": 2.5
       },
             {
          "codFam": "169",
@@ -2382,7 +2382,7 @@
          "nomeFam": "new Family Test",
          "totFat": 28059.8,
          "totQtd": 1183800,
-         "medio": 2
+         "medio": 3.3
       }
    ]},
    "pchrCodRet": "0",
